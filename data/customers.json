@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "2",
+      "contact": "081-391-2756",
+      "name": "จุรีพร",
+      "order_date": 1690443367558,
+      "quantity": 2,
+      "shipping_date": 1690529767558,
+      "totalprice": 280,
+      "status": "จัดส่งแล้ว",
+      "average frequency": 3,
+      "class": "normal",
+      "sex": "female",
+      "ages": "วัยทำงาน",
+      "address": "บุ่งแก้ว อุดรธานี"
+    },
+    {
+      "id": "1690451715765",
+      "contact": "-",
+      "name": "ครูตุ่ม",
+      "order_date": "2023-07-27",
+      "quantity": "2",
+      "shipping_date": "2023-07-30",
+      "totalprice": 280,
+      "status": "รอการจัดส่ง",
+      "average frequency": 3,
+      "class": "vip",
+      "sex": "female",
+      "ages": "วัยทำงาน",
+      "address": "บุ่งแก้ว อุดรธานี"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Sukhumvit";
+  src: url("./font/sukhumvit-set/SukhumvitSet-Medium.ttf") format("truetype");
+}
+*{
+    font-family: 'Sukhumvit', Merriweather,'Helvetica Neue',Arial,sans-serif;
+}
