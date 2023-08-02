@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import useRouter from "next/router";
 import Navbar from "../../components/navbar";
-import Link from "next/Link";
-import Image from "next/image";
+
 const router = useRouter;
 
 const AddCustomerPage = () => {
