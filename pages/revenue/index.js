@@ -1,7 +1,6 @@
-import Link from "next/Link";
-import Image from "next/image";
+
 import Navbar from "../../components/navbar";
-const OrderHome = () => {
+const revenue = () => {
   return (
     <div className="text-black">
       <Navbar />
@@ -12,4 +11,4 @@ const OrderHome = () => {
   );
 };
 
-export default Navbar;
+export default revenue;

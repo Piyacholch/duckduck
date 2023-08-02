@@ -1,7 +1,6 @@
-import Link from "next/Link";
-import Image from "next/image";
+
 import Navbar from "../../components/navbar";
-const OrderHome = () => {
+const totalegg = () => {
   return (
     <div className="">
       <Navbar />
@@ -10,4 +9,4 @@ const OrderHome = () => {
   );
 };
 
-export default Navbar;
+export default totalegg;
